@@ -1,5 +1,7 @@
 # Antarctic Ecosystem Simulation
 
+[![CI](https://github.com/madmaxfv0/antarctic-ecosystem-simulation/actions/workflows/ci.yml/badge.svg)](https://github.com/madmaxfv0/antarctic-ecosystem-simulation/actions/workflows/ci.yml)
+
 An agent-based predator–prey model of an Antarctic Peninsula food web, written in Java with a JavaFX view. Five animal species and phytoplankton live on a 100 × 80 grid; each animal carries a 14-digit gene that sets its life cycle, and those genes are inherited, crossed over and mutated from one generation to the next.
 
 ![Four snapshots of the grid at generations 0, 10, 40 and 120](docs/screenshots/ecosystem-timeline.png)
